@@ -32,4 +32,45 @@ The data we retrieved from the company's database was clean so I had no data cle
 
 ## Data Analysis 🧑‍🔧
 I created pivot tables to answer the questions and also answered the Key Perfromance Index questions
-![](
+![](KPI.png)
+![](PT1.png)
+![](PT2.png)
+![](PT3.png)
+![](PT4.png)
+![](PT5.png)
+
+## Visualisations
+Using the pivot tables created, I made visuals to answer the questions posed so as to help the manager make his decision-making process easier.
+
+- We inspected the average time it took for orders to be shipped and they returned in line with the time promised based on the shipping mode the customers selected while placing their orders. This is an area of strength that the manager should look to maintain.
+![](ShippingMode.png)
+---
+- Looking at the sales unit, sales value, profit, and profit margin by state, California and New York stand out as leading in these metrics and the manager needs to take note of these states for further business in the coming year. The 2 states are the company's stronghold and that needs to be maintained.
+![](SalesbyState.png)
+![](SalesQbyState.png)
+![](ProfitbyState.png)
+![](ProfitMarginbyState.png)
+---
+- Proft, discount, and quantity of sales by category reveal that technology raked in the most profit despite not selling the most units of the product while also offering the least average discount. This is a point to note for the manager. Increasing the average discount on Technology products might make the category record even more sales and profit.
+![](ProfitbyCategory.png)
+![](DiscountbyCategory.png)
+![](SalesQbyCategory.png)
+---
+- Total profit and average discount by sub-category reveal that the sub-categories with the most average discount do not make the most profit, even though some of them ended up with high values in losses. This might be an indicator that there is a fault in the discount system that needs to be looked into and rectified.
+![](ProfitbySubCategory.png)
+![](DiscountbySubCategory.png)
+---
+- The consumer segment brought in the most profit in the year ending.
+![](ProfitbySegment.png)
+---
+- The West region alone made nearly half of the profit made overall. That is an indicator that the region is a huge success and needs to be maintained.
+![](ProfitbyRegion.png)
+---
+- A huge part of the sales and profit is made in the ember months which makes the fourth quarter(Q4) the most successful quarter in the companies's year. This needs paying attention to for subsequent year plans.
+![](ProfitbyMonth.png)
+![](SalesbyMonth.png)
+![](ProfitbyQuarter.png)
+![](SalesbyQuarter.png)
+
+## Conclusion
+In conclusion, the manager has a lot to look into in terms of what makes the successful months, quarters, regions, categories, sub-categories, and states successful and the under-performing ones under-perform. Marrying these reasons can only make the company do even better in the coming year. ⏫
