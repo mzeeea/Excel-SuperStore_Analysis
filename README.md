@@ -13,6 +13,8 @@ After carefully digesting the demands of the business manager and the data avail
 - What is the quantity sold?
 - What is the average shipping time?
 - What is the total sales margin?
+
+  
 - What is the average shipping window for each shipping mode?
 - Which states make the most quantity of sales, sales, and profit?
 - Which category and sub-categories make the most profit?
