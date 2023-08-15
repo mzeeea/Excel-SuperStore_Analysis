@@ -81,7 +81,7 @@ Using the pivot tables created, I made visuals to answer the questions posed so 
 - The West region alone made nearly half of the profit made overall. That is an indicator that the region is a huge success and needs to be maintained.
 ![](ProfitbyRegion.png)
 ---
-- A huge part of the sales and profit is made in the ember months which makes the fourth quarter(Q4) the most successful quarter in the companies's year. This needs paying attention to for subsequent year plans.
+- A huge part of the sales and profit is made in the ember months which makes the fourth quarter(Q4) the most successful quarter in the companies' year. This needs paying attention to for subsequent year plans.
 ![](ProfitbyMonth.png)
 ![](SalesbyMonth.png)
 ![](ProfitbyQuarter.png)
