@@ -8,13 +8,15 @@ We're entering a new business year, and based on the company's sales performance
 ## Questions to answer ❓
 
 After carefully digesting the demands of the business manager and the data available, I have come up with the following questions to potentially find answers to using the available dataset:
+
+### KPI
 - What is the total sales?
 - What is the total profit?
 - What is the quantity sold?
 - What is the average shipping time?
 - What is the total sales margin?
 
-  
+ ### Questions to answer. 
 - What is the average shipping window for each shipping mode?
 - Which states make the most quantity of sales, sales, and profit?
 - Which category and sub-categories make the most profit?
