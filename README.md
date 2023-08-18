@@ -76,6 +76,7 @@ Using the pivot tables created, I made visuals to answer the questions posed so 
 ![](SalesQbyCategory.png)
 ---
 - Total profit and average discount by sub-category reveal that the sub-categories with the most average discount do not make the most profit, even though some of them ended up with high values in losses. This might be an indicator that there is a fault in the discount system that needs to be looked into and rectified.
+  
 ![](ProfitbySubCategory.png)
 ![](DiscountbySubCategory.png)
 ---
